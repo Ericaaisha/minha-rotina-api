@@ -4,7 +4,7 @@ API REST para gerenciamento de tarefas do dia a dia — academia, faculdade, sa�
 
 Desenvolvida do zero com Python, FastAPI e banco de dados SQLite.
 
-## 🚀 Tecnologias
+## 🚀 Linguagens
 
 - Python 3.14
 - FastAPI
